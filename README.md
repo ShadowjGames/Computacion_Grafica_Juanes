@@ -5,5 +5,6 @@ Donde montar los trabajos para computación gráfica (y parciales, muy important
 https://youtu.be/1svym8RLCkQ
 
 ## Parcial #2
-https://youtu.be/EpKwZXPNrxs
-https://youtu.be/cVSLuVF7XUQ
+- https://youtu.be/EpKwZXPNrxs
+
+- https://youtu.be/cVSLuVF7XUQ
